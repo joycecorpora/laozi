@@ -56,7 +56,7 @@ with open("Documentation for the Laozi Parallel Corpus.pdf", "rb") as f:
 st.markdown("""
 The Laozi Parallel Corpus, developed by Joyce Oiwun Cheung, a Lecturer at Hong Kong Metropolitan University, serves as a resource for researchers and enthusiasts interested in the translations of the Chinese classic Laozi (道德經, Dao De Jing / Tao Te Ching). This app features 79 English translations published between 1884 and 2018, aligned line-by-line by Cheung in 2021. With a user-friendly interface, users can easily search for English words or Chinese characters, retrieving relevant sentences and their corresponding translations from various eras.
 
-This app is intended for non-profit use only. Any parties interested in using the app should cite the following source: Cheung, J.O. (2025). Exploring L1/L2 and time impact on linguistic complexity of Laozi translations. Australian Review of Applied Linguistics. For inquiries, contact Joyce Cheung at owcheung@hkmu.edu.hk.
+This app is intended for non-profit use only. Any parties interested in using the app should cite the following source: Cheung, J.O. (2025). Exploring L1/L2 and time impact on linguistic complexity of Laozi translations. Australian Review of Applied Linguistics. https://doi.org/10.1075/aral.24025.che. For inquiries, contact Joyce Cheung at owcheung@hkmu.edu.hk.
 """)
 
 
