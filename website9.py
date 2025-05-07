@@ -44,7 +44,7 @@ st.title("Laozi Parallel Corpus")
 # Introduction and Documentation Link
 
 # Serve the PDF
-with open("docs/Documentation for the Laozi Parallel Corpus.pdf", "rb") as f:
+with open("Documentation for the Laozi Parallel Corpus.pdf", "rb") as f:
     pdf_bytes = f.read()
     st.download_button(
         label="Download Documentation",
